@@ -12,7 +12,7 @@ Welcome to my personal GitHub page! I'm Francesco, a developer passionate about 
 
 ## 🛠️ Skills
 
-- Languages/Tools: <img src="/images/html5.svg" alt="HTML" style="width: 35px; height: auto;"> <img src="/images/css3-alt.svg.svg" alt="CSS" style="width: 35px; height: auto;">
+- Languages/Tools: <img src="/images/html5.svg" alt="HTML" style="width: 35px; height: auto;"> <img src="/images/css3-alt.svg" alt="CSS" style="width: 35px; height: auto;">
 
 
 ---
