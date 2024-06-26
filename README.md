@@ -23,7 +23,7 @@ Welcome to my personal GitHub page! I'm Francesco, a developer passionate about 
 
 ## 📫 Contact
 
-For any questions or collaborations, feel free to reach out via [email].
+For any questions or collaborations, feel free to reach out via email - geom.francescopaolo@gmail.com
 
 Thank you for visiting!
 
