@@ -17,7 +17,7 @@ Welcome to my personal GitHub page! I'm Francesco, a developer passionate about 
 
 ---
 
-[![francesco-paolo-donofrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-paolo-donofrio)](https://github.com/francesco-paolo-donofrio/github-readme-stats)
+![Francesco Paolo D'Onofrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-paolo-donofrio&show_icons=true&theme=transparent)
 
 ---
 
