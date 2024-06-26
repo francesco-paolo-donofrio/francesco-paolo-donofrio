@@ -4,15 +4,15 @@ Welcome to my personal GitHub page! I'm Francesco, a developer passionate about 
 
 ---
 
-## 🔗 Links
+## 🔗 Connect with me
 
-- [IconaLinkedin] (https://www.linkedin.com/in/francesco-paolo-d-onofrio/)
+- <img src="/images/linkedin.svg" alt="Linkedin" style="width: 35px; height: auto;"> (https://www.linkedin.com/in/francesco-paolo-d-onofrio/)
 
 ---
 
 ## 🛠️ Skills
 
-- Languages/Tools: <img src="/images/html5.svg" alt="HTML" style="width: 35px; height: auto;"> <img src="/images/css3-alt.svg" alt="CSS" style="width: 35px; height: auto;">
+- Languages/Tools: <img src="/images/git-alt.svg" alt="Git" style="width: 35px; height: auto;">   <img src="/images/html5.svg" alt="HTML" style="width: 35px; height: auto;">   <img src="/images/css3-alt.svg" alt="CSS" style="width: 35px; height: auto;">   <img src="/images/bootstrap.svg" alt="Bootstrap" style="width: 35px; height: auto;">   <img src="/images/sass.svg" alt="SASS" style="width: 35px; height: auto;">   <img src="/images/js.svg" alt="JavaScript" style="width: 35px; height: auto;">   <img src="/images/vuejs.svg" alt="Vue.js" style="width: 35px; height: auto;">   <img src="/images/database-solid.svg" alt="MySQL" style="width: 35px; height: auto;">   <img src="/images/php.svg" alt="PHP" style="width: 35px; height: auto;">   <img src="/images/laravel.svg" alt="Laravel" style="width: 35px; height: auto;">
 
 
 ---
@@ -25,14 +25,4 @@ Thank you for visiting!
 
 ---
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
