@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Francesco Paolo D'Onofrio!
+## Hi There!
 
 Welcome to my personal GitHub page! I'm Francesco, a developer passionate about pizza and programming 😄.
 
