@@ -17,7 +17,7 @@ Welcome to my personal GitHub page! I'm Francesco, a developer passionate about 
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?francesco-paolo-donofrio=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![francesco-paolo-donofrio's GitHub stats](https://github-readme-stats.vercel.app/api?francesco-paolo-donofrio=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
