@@ -1,15 +1,15 @@
-
+<head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-PvCZ1PruM2eqh9DhWVDTiH53Lg2tzzh2/NxJUZp37FfiF2IAjs3V7xx+6+CKec5wMhEcrER3ciKwNo0UYf8V2w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+## 👋 Hi, I'm Francesco Paolo D'Onofrio!
 
-## 👋 Hi, I'm [Francesco Paolo D'Onofrio]!
-
-Welcome to my personal GitHub page! I'm [Francesco], a developer passionate about technology and programming. Here you'll find some of my projects, open source contributions, and other interesting resources.
+Welcome to my personal GitHub page! I'm Francesco, a developer passionate about technology and programming. Here you'll find some of my projects, open source contributions, and other interesting resources.
 
 ---
 
 ## 🔗 Links
 
-- [LinkedIn] (https://www.linkedin.com/in/francesco-paolo-d-onofrio/)
+- [IconaLinkedin] (https://www.linkedin.com/in/francesco-paolo-d-onofrio/)
 
 ---
 
