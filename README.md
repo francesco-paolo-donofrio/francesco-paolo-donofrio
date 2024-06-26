@@ -6,7 +6,7 @@ Welcome to my personal GitHub page! I'm Francesco, a developer passionate about 
 
 ## 🔗 Connect with me
 
-- [<img src="/images/linkedin.svg" alt="Linkedin" style="width: 35px; height: 35px;">] (https://www.linkedin.com/in/francesco-paolo-d-onofrio/)
+- <a href="https://www.linkedin.com/in/francesco-paolo-d-onofrio/"><img src="/images/linkedin.svg" alt="Linkedin" style="width: 35px; height: 35px;"></a>
 
 ---
 
