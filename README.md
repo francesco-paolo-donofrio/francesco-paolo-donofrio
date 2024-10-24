@@ -2,9 +2,9 @@
 
 Welcome to my personal GitHub page! I'm Francesco, a Full Stack Web Developer passionate about programming 😄.
 
-During my training, I delved into the use of Frontend and Backend technologies such as HTML, CSS e Sass, JavaScript, Typescript, Vite.js, Vue.js, and Node.js, as well as MySQL, PHP, and Laravel. Also Wordpress.
+During my training, I gained hands-on experience with both frontend and backend technologies, including HTML, CSS and Sass, JavaScript, TypeScript, Vite.js, Vue.js, and Node.js, along with MySQL, PHP, Laravel, and WordPress.
 
-I'm currently learning TypeScript and Angular to enhance my web development skills and build scalable, maintainable applications.
+I'm currently learning Angular to enhance my web development skills and build scalable, maintainable applications.
 
 This intensive program allowed me to address gaps in various frameworks and fueled my enthusiasm for new technologies.
 
