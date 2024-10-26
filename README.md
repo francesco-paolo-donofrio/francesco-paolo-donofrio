@@ -1,14 +1,17 @@
-## Hi There!
+Hi there! 👋
+Welcome to my GitHub page! I'm Francesco, a Full Stack Web Developer with a deep passion for programming and a drive to continuously learn and improve. 😄
 
-Welcome to my personal GitHub page! I'm Francesco, a Full Stack Web Developer passionate about programming 😄.
+Throughout my training, I've gained hands-on experience in both frontend and backend development, working with:
 
-During my training, I gained hands-on experience with both frontend and backend technologies, including HTML, CSS and Sass, JavaScript, TypeScript, Vite.js, Vue.js, and Node.js, along with MySQL, PHP, Laravel, and WordPress.
+Frontend: HTML, CSS, Sass, JavaScript, TypeScript, Vite.js, Vue.js
+Backend: Node.js, MySQL, PHP, Laravel, WordPress
+I'm currently expanding my expertise in Angular to build scalable and maintainable applications, adding new tools to my skillset and diving deeper into frontend frameworks.
 
-I'm currently learning Angular to enhance my web development skills and build scalable, maintainable applications.
+This intensive learning path has not only helped me bridge knowledge gaps but has also ignited a passion for exploring new technologies. Since completing my studies, I've fully committed myself to programming, dedicating time each day to honing my skills, staying current with industry trends, and experimenting with new tools.
 
-This intensive program allowed me to address gaps in various frameworks and fueled my enthusiasm for new technologies.
+Outside of coding, I'm also a sports enthusiast and love spending time in the kitchen trying out new recipes! 🍲🏃‍♂️
 
-After completing my studies, I've dedicated myself full-time to programming, constantly honing my skills and exploring new technologies, while also staying active as a sports enthusiast and a passionate cook. 
+Let's connect and build something amazing together!
 
 ---
 
