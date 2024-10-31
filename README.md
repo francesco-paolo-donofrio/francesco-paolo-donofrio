@@ -20,7 +20,7 @@ Let's connect and create something amazing together!
 
 ## 🔗 Connections
 
-- <a href="https://www.linkedin.com/in/francesco-paolo-d-onofrio/"><img src="/images/linkedin.svg" alt="Linkedin" style="width: 35px; height: 35px;"></a> <a href="https://www.gmail.com/"><img src="/images/gmail.svg" alt="Linkedin" style="width: 35px; height: 35px;"></a>
+- <a href="https://www.linkedin.com/in/francesco-paolo-d-onofrio/"><img src="/images/linkedin.svg" alt="Linkedin" style="width: 35px; height: 35px;"></a> <a href="https://www.gmail.com/"><img src="/images/gmail.svg" alt="Gmail" style="width: 35px; height: 35px;"></a>
 
 ---
 
@@ -35,12 +35,6 @@ Let's connect and create something amazing together!
 
 ---
 
-## 📫 Contact
 
-For any questions or collaborations, feel free to reach out via email - geom.francescopaolo@gmail.com
-
-Thank you for visiting!
-
----
 
 
