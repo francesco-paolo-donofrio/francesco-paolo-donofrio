@@ -35,12 +35,6 @@ Let's connect and create something amazing together!
 
 ---
 
-## 📫 Contact
 
-For any questions or collaborations, feel free to reach out via email - geom.francescopaolo@gmail.com
-
-Thank you for visiting!
-
----
 
 
