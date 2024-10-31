@@ -1,20 +1,26 @@
-## Hi There!
+Hi there! 👋
 
-Welcome to my personal GitHub page! I'm Francesco, a Full Stack Web Developer passionate about programming and pizza 🍕😄.
+Welcome to my GitHub page! I'm Francesco, a Full Stack Web Developer with a deep passion for programming and a special focus on frontend development. 😄
 
-During my training, I delved into the use of Frontend and Backend technologies such as HTML, CSS e Sass, JavaScript, Vite.js, Vue.js, and Node.js, as well as MySQL, PHP, and Laravel. 
+Throughout my training, I've developed a strong foundation in both frontend and backend technologies, though I find myself particularly drawn to frontend work, where I can bring user interfaces to life. My toolkit includes:
 
-I'm currently learning TypeScript and Angular to enhance my web development skills and build scalable, maintainable applications.
+Frontend: HTML, CSS, Sass, JavaScript, TypeScript, Vite.js, Vue.js, WordPress
 
-This intensive program allowed me to address gaps in various frameworks and fueled my enthusiasm for new technologies.
+Backend: Node.js, MySQL, PHP, Laravel, WordPress
 
-After completing my studies, I've dedicated myself full-time to programming, constantly honing my skills and exploring new technologies, while also staying active as a sports enthusiast and a passionate cook. 
+I'm currently enhancing my skills in Angular to build scalable, maintainable applications and to broaden my capabilities in the frontend landscape.
+
+This intensive learning journey has not only helped me bridge knowledge gaps but has also fueled my enthusiasm for exploring new tools and frameworks. Since completing my studies, I've dedicated myself full-time to programming, constantly refining my skills and staying updated with the latest in web development.
+
+Outside of coding, I'm a sports enthusiast and love experimenting in the kitchen. I also like playing music. 🍲🏃‍♂️
+
+Let's connect and create something amazing together!
 
 ---
 
 ## 🔗 Connections
 
-- <a href="https://www.linkedin.com/in/francesco-paolo-d-onofrio/"><img src="/images/linkedin.svg" alt="Linkedin" style="width: 35px; height: 35px;"></a>
+- <a href="https://www.linkedin.com/in/francesco-paolo-d-onofrio/"><img src="/images/linkedin.svg" alt="Linkedin" style="width: 35px; height: 35px;"></a> <a href="https://www.gmail.com/"><img src="/images/gmail.svg" alt="Linkedin" style="width: 35px; height: 35px;"></a>
 
 ---
 
