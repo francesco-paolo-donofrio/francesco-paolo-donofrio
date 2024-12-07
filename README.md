@@ -6,7 +6,7 @@ Throughout my training, I've developed a strong foundation in both frontend and 
 
 Frontend: HTML, CSS, Sass, JavaScript, TypeScript, Angular, Vite.js, Vue.js, WordPress
 
-Backend: Node.js, MySQL, PHP, Laravel
+Backend: Node.js, MySQL, PHP, Laravel, WordPress
 
 I'm currently enhancing my skills in Angular to build scalable, maintainable applications and to broaden my capabilities in the frontend landscape.
 
