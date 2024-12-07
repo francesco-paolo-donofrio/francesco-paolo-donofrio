@@ -12,8 +12,6 @@ I'm currently enhancing my skills in Angular to build scalable, maintainable app
 
 This intensive learning journey has not only helped me bridge knowledge gaps but has also fueled my enthusiasm for exploring new tools and frameworks. Since completing my studies, I've dedicated myself full-time to programming, constantly refining my skills and staying updated with the latest in web development.
 
-Outside of coding, I'm a sports enthusiast and love experimenting in the kitchen. I also like playing music. 🍲🏃‍♂️
-
 Let's connect and create something amazing together!
 
 ---
