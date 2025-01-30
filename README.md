@@ -8,12 +8,6 @@ Frontend: HTML, CSS, Sass, JavaScript, TypeScript, Angular, Vite.js, Vue.js, Wor
 
 Backend: Node.js, MySQL, PHP, Laravel, WordPress
 
-I'm currently enhancing my skills in Angular to build scalable, maintainable applications and to broaden my capabilities in the frontend landscape.
-
-This intensive learning journey has not only helped me bridge knowledge gaps but has also fueled my enthusiasm for exploring new tools and frameworks. Since completing my studies, I've dedicated myself full-time to programming, constantly refining my skills and staying updated with the latest in web development.
-
-Let's connect and create something amazing together!
-
 ---
 
 ## 🔗 Connections
