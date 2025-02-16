@@ -1,7 +1,5 @@
 🚀 Frontend Developer | Tech Enthusiast 🎨💻
 
-Hi there! 👋
-
 Welcome to my GitHub! I'm Francesco, a Full Stack Web Developer with a deep passion for programming and a special focus on frontend development. 😄
 
 My toolkit includes:
