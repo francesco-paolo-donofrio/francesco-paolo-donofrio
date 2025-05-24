@@ -1,4 +1,4 @@
-🚀 Full-stack Web Developer | Tech Enthusiast 🎨💻
+🚀 Full-stack Web Developer 💻
 
 Welcome to my GitHub! I'm Francesco, a Full Stack Web Developer with a deep passion for programming and technologies. 😄
 
