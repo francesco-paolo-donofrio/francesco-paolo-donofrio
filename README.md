@@ -1,21 +1,21 @@
 # 🚀 Full-Stack Web Developer & 🛡️ Cybersecurity Student
 
 Welcome to my GitHub!  
-I'm **Francesco**, a Full Stack Web Developer with a deep passion for programming, technology, and digital security. 😄  
-Currently expanding my expertise in **Cybersecurity**, while continuing to craft responsive and user-friendly web applications.
+I'm **Francesco**, a Full Stack Web Developer with a strong focus on **Frontend Development**, especially with **Vue.js**, and a deep interest in **Cybersecurity**. 😄  
+I love building intuitive user interfaces and I'm always expanding my skills in secure and modern web development.
 
 ---
 
 ## 🧰 My Toolkit
 
-### 💻 Frontend
+### 💻 Frontend (Main Focus)
 HTML • CSS • Sass • JavaScript • TypeScript • Vite.js • Vue.js • WordPress
 
-### 🔙 Backend
-Java • Node.js • PHP • Laravel • MySQL • WordPress (Full CMS Integration)
+### 🔙 Backend (Basic to Intermediate Knowledge)
+Java • Node.js • PHP • Laravel • MySQL • WordPress (CMS Integration)
 
 ### 🛡️ Currently Learning
-Spring Boot • Cybersecurity Fundamentals • Secure Web Development
+Spring Boot • Cybersecurity Fundamentals • Secure Web App Practices
 
 💡 *Always learning, always building.*
 
@@ -31,19 +31,19 @@ Spring Boot • Cybersecurity Fundamentals • Secure Web Development
 
 ## 🛠️ Skills & Tools
 
-<img src="/images/git-alt.svg" alt="Git" style="width: 35px; height: 35px;">  
-<img src="/images/html5.svg" alt="HTML5" style="width: 35px; height: 35px;">  
-<img src="/images/css3-alt.svg" alt="CSS3" style="width: 35px; height: 35px;">  
-<img src="/images/bootstrap.svg" alt="Bootstrap" style="width: 35px; height: 35px;">  
-<img src="/images/sass.svg" alt="Sass" style="width: 35px; height: 35px;">  
-<img src="/images/js.svg" alt="JavaScript" style="width: 35px; height: 35px;">  
-<img src="/images/ts-logo-512.svg" alt="TypeScript" style="width: 35px; height: 35px;">  
-<img src="/images/vuejs.svg" alt="Vue.js" style="width: 35px; height: 35px;">  
-<img src="/images/angular-brands-solid.svg" alt="Angular" style="width: 35px; height: 35px;">  
-<img src="/images/php.svg" alt="PHP" style="width: 35px; height: 35px;">  
-<img src="/images/laravel.svg" alt="Laravel" style="width: 35px; height: 35px;">  
-<img src="/images/wordpress.svg" alt="WordPress" style="width: 35px; height: 35px;">  
-<img src="/images/database-solid.svg" alt="MySQL" style="width: 35px; height: 35px;">  
+<img src="/images/git-alt.svg" alt="Git" style="width: 35px; height: 35px;"> 
+<img src="/images/html5.svg" alt="HTML5" style="width: 35px; height: 35px;"> 
+<img src="/images/css3-alt.svg" alt="CSS3" style="width: 35px; height: 35px;"> 
+<img src="/images/bootstrap.svg" alt="Bootstrap" style="width: 35px; height: 35px;"> 
+<img src="/images/sass.svg" alt="Sass" style="width: 35px; height: 35px;"> 
+<img src="/images/js.svg" alt="JavaScript" style="width: 35px; height: 35px;"> 
+<img src="/images/ts-logo-512.svg" alt="TypeScript" style="width: 35px; height: 35px;"> 
+<img src="/images/vuejs.svg" alt="Vue.js" style="width: 35px; height: 35px;"> 
+<img src="/images/angular-brands-solid.svg" alt="Angular" style="width: 35px; height: 35px;"> 
+<img src="/images/php.svg" alt="PHP" style="width: 35px; height: 35px;"> 
+<img src="/images/laravel.svg" alt="Laravel" style="width: 35px; height: 35px;"> 
+<img src="/images/wordpress.svg" alt="WordPress" style="width: 35px; height: 35px;"> 
+<img src="/images/database-solid.svg" alt="MySQL" style="width: 35px; height: 35px;"> 
 
 ---
 
