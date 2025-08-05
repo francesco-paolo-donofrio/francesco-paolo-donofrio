@@ -1,8 +1,8 @@
-# 🚀 Full-Stack Web Developer & 🛡️ Cybersecurity Student
+# 🚀 Frontend Web Developer & 🛡️ Cybersecurity Student
 
 Welcome to my GitHub!  
-I'm a Full Stack Web Developer with a strong focus on **Frontend Development**, especially with **Vue.js**, and a deep interest in **Cybersecurity**. 😄  
-I love building intuitive user interfaces and I'm always expanding my skills in secure and modern web development.
+Full Stack Web Developer with a strong focus on **Frontend Development**, especially with **Vue.js**, and a deep interest in **Cybersecurity**. 😄  
+Building intuitive user interfaces and I'm always expanding my skills in secure and modern web development.
 
 ---
 
