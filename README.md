@@ -1,7 +1,7 @@
 # 🚀 Full-Stack Web Developer & 🛡️ Cybersecurity Student
 
 Welcome to my GitHub!  
-I'm **Francesco**, a Full Stack Web Developer with a strong focus on **Frontend Development**, especially with **Vue.js**, and a deep interest in **Cybersecurity**. 😄  
+I'm a Full Stack Web Developer with a strong focus on **Frontend Development**, especially with **Vue.js**, and a deep interest in **Cybersecurity**. 😄  
 I love building intuitive user interfaces and I'm always expanding my skills in secure and modern web development.
 
 ---
@@ -15,7 +15,7 @@ HTML • CSS • Sass • JavaScript • TypeScript • Vite.js • Vue.js • W
 Java • Node.js • PHP • Laravel • MySQL • WordPress (CMS Integration)
 
 ### 🛡️ Currently Learning
-Spring Boot • Cybersecurity Fundamentals • Secure Web App Practices
+Cybersecurity Fundamentals • Secure Web App Practices
 
 💡 *Always learning, always building.*
 
