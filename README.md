@@ -7,10 +7,10 @@ Building intuitive user interfaces and I'm always expanding my skills in secure 
 
 ## 🧰 My Toolkit
 
-### 💻 Frontend (Main Focus)
+### 💻 Frontend 
 JavaScript • TypeScript • Vue.js • Vite.js • HTML • CSS • Sass • 
 
-### 🔙 Backend (Basic to Intermediate Knowledge)
+### 🔙 Backend 
 Java • Node.js • PHP • Laravel • MySQL • WordPress (CMS Integration)
 
 ### 🛡️ Currently Learning
