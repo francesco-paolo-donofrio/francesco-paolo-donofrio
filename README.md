@@ -1,7 +1,7 @@
 # 🚀 Frontend Web Developer & 🛡️ Cybersecurity Student
 
 Full Stack Web Developer with a strong focus on **Frontend Development**, especially with **Vue.js**, and a deep interest in **Cybersecurity**. 😄  
-Building intuitive user interfaces and I'm always expanding my skills in secure and modern web development.
+Building intuitive user interfaces and always expanding my skills in secure and modern web development.
 
 ---
 
