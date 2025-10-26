@@ -12,7 +12,7 @@ Currently working on a private project.
   <img src="/images/linux.svg" alt="Linux" style="width: 45px; height: 45px; margin-right: 10px;">
   <img src="/images/fedora.svg" alt="Linux" style="width: 45px; height: 45px; margin-right: 10px;">
   <img src="/images/redhat.svg" alt="Redhat" style="width: 45px; height: 45px; margin-right: 10px;">
-  ---
+  
   <img src="/images/windows.svg" alt="Windows" style="width: 45px; height: 45px;">
 </p>
 
