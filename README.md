@@ -29,14 +29,7 @@ Java • Node.js • PHP • Laravel • MySQL • WordPress (CMS Integration)
 
 ### 🛡️ Currently Learning  
 Cybersecurity Fundamentals • Secure Web App Practices  
-
-<p align="left">
-  <img src="/images/wireshark.svg" alt="Wireshark" style="width: 45px; height: 45px; margin-right: 10px;">
-  <img src="/images/tcpdump.svg" alt="tcpdump" style="width: 45px; height: 45px; margin-right: 10px;">
-  <img src="/images/splunk.svg" alt="Splunk" style="width: 45px; height: 45px;">
-</p>
-
-💡 *Always learning, always building.*
+Wireshark • Splunk Enterprise 
 
 ---
 
