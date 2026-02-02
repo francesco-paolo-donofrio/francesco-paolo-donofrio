@@ -18,7 +18,7 @@ Full Stack Web Developer focused on **Frontend Development**, especially with **
 ---
 
 ### 💻 Frontend  
-JavaScript • TypeScript • Vue.js • Vite.js • HTML • CSS • Sass  
+JavaScript • TypeScript • Vue.js • Vite.js • HTML • CSS 
 
 ---
 
